@@ -5837,7 +5837,7 @@
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_N_PLUS_ONE_BULK_POWER_LIMIT_WATTS</id>
-		<default>2400</default>
+		<default>4095</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_N_PLUS_ONE_MAX_MEM_POWER_WATTS</id>
