@@ -1675,7 +1675,7 @@
 	<id>/sys-0/apss-0/Memory_Proc2_Power</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0xA5</value>
+	<value></value>
 	</property>
 	<property>
 	<id>INSTANCE_ID</id>
@@ -2160,7 +2160,7 @@
 	<id>/sys-0/apss-0/Memory_Proc0_1_Power</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value></value>
+	<value>0xA5</value>
 	</property>
 	<property>
 	<id>INSTANCE_ID</id>
@@ -2699,7 +2699,7 @@
 	<id>/sys-0/apss-0/Memory_Proc1_Power</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0xA4</value>
+	<value></value>
 	</property>
 	<property>
 	<id>INSTANCE_ID</id>
@@ -3337,7 +3337,7 @@
 	<id>/sys-0/apss-0/Memory_Proc0_0_Power</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value></value>
+	<value>0xA4</value>
 	</property>
 	<property>
 	<id>INSTANCE_ID</id>
@@ -3355,7 +3355,7 @@
 	<id>/sys-0/apss-0/Memory_Proc3_Power</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0xA7</value>
+	<value></value>
 	</property>
 	<property>
 	<id>INSTANCE_ID</id>
@@ -4243,7 +4243,7 @@
 	<id>/sys-0/apss-0/Memory_Proc0_2_Power</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value></value>
+	<value>0xA7</value>
 	</property>
 	<property>
 	<id>INSTANCE_ID</id>
@@ -16103,7 +16103,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>34500</default>
+		<default>10000</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -16115,7 +16115,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-31</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -16174,11 +16174,11 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default>5</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>34500</default>
+		<default>10000</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -16214,7 +16214,7 @@
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_NAME_SUFFIX</id>
-		<default>Proc0_2_Power</default>
+		<default>Memory_Proc1_Power</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_OFFSETS</id>
@@ -16249,11 +16249,11 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default>4</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>34500</default>
+		<default>10000</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -16289,7 +16289,7 @@
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_NAME_SUFFIX</id>
-		<default>Proc0_3_Power</default>
+		<default>Memory_Proc2_Power</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_OFFSETS</id>
@@ -16324,11 +16324,11 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default>2</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>34500</default>
+		<default>10000</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -16364,7 +16364,7 @@
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_NAME_SUFFIX</id>
-		<default>Proc1_1_Power</default>
+		<default>Memory_Proc3_Power</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_OFFSETS</id>
@@ -16403,7 +16403,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>34500</default>
+		<default>10000</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -16415,7 +16415,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-32</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -16478,7 +16478,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>34500</default>
+		<default>10000</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -16490,7 +16490,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-30</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -16553,7 +16553,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>34500</default>
+		<default>10000</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -16565,7 +16565,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-29</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -16628,7 +16628,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>34500</default>
+		<default>10000</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -16640,7 +16640,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-35</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -16703,7 +16703,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>34500</default>
+		<default>10000</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -16715,7 +16715,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-37</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -17003,7 +17003,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>34500</default>
+		<default>10000</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -17015,7 +17015,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-33</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -17378,7 +17378,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>34500</default>
+		<default>10000</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -17390,7 +17390,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-33</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -17674,11 +17674,11 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default></default>
+		<default>5</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>34500</default>
+		<default>10000</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -17690,7 +17690,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-32</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -17714,7 +17714,7 @@
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_NAME_SUFFIX</id>
-		<default>Memory_Proc0_0_Power</default>
+		<default>Proc0_2_Power</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_OFFSETS</id>
@@ -17749,11 +17749,11 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default></default>
+		<default>4</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>34500</default>
+		<default>10000</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -17765,7 +17765,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-31</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -17789,7 +17789,7 @@
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_NAME_SUFFIX</id>
-		<default>Memory_Proc0_1_Power</default>
+		<default>Proc0_3_Power</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_OFFSETS</id>
@@ -17824,11 +17824,11 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default></default>
+		<default>2</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>34500</default>
+		<default>10000</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -17840,7 +17840,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-31</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -17864,7 +17864,7 @@
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_NAME_SUFFIX</id>
-		<default>Memory_Proc0_2_Power</default>
+		<default>Proc1_1_Power</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_OFFSETS</id>
@@ -17903,7 +17903,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>34500</default>
+		<default>6500</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -17915,7 +17915,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-35</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
