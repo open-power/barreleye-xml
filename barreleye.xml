@@ -5837,7 +5837,7 @@
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_N_PLUS_ONE_BULK_POWER_LIMIT_WATTS</id>
-		<default>4095</default>
+		<default>1200</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_N_PLUS_ONE_MAX_MEM_POWER_WATTS</id>
@@ -16115,7 +16115,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>-31</default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -16415,7 +16415,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>-32</default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -16490,7 +16490,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>-30</default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -16565,7 +16565,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>-29</default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -16640,7 +16640,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>-35</default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -16715,7 +16715,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>-37</default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -17015,7 +17015,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>-33</default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -17390,7 +17390,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>-33</default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -17690,7 +17690,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>-32</default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -17765,7 +17765,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>-31</default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -17840,7 +17840,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>-31</default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -17915,7 +17915,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>-35</default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
