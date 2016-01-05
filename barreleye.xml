@@ -5849,7 +5849,7 @@
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_PROC_ERROR_TEMP_DEG_C</id>
-		<default>95</default>
+		<default>90</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_PROC_READ_TIMEOUT_SEC</id>
