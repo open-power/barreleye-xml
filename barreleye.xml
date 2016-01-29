@@ -1570,39 +1570,6 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/apss-0/Proc0_0_Power</id>
-	<property>
-	<id>INSTANCE_ID</id>
-	<value>Proc0_0_Power</value>
-	</property>
-	<property>
-	<id>IPMI_SENSOR_ID</id>
-	<value>0xA3</value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/apss-0/Proc0_1_Power</id>
-	<property>
-	<id>INSTANCE_ID</id>
-	<value>Proc0_1_Power</value>
-	</property>
-	<property>
-	<id>IPMI_SENSOR_ID</id>
-	<value>0xA4</value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/apss-0/Proc0_2_Power</id>
-	<property>
-	<id>INSTANCE_ID</id>
-	<value>Proc0_2_Power</value>
-	</property>
-	<property>
-	<id>IPMI_SENSOR_ID</id>
-	<value>0xA5</value>
-	</property>
-</globalSetting>
-<globalSetting>
 	<id>/sys-0/apss-0/Proc0_Power</id>
 	<property>
 	<id>INSTANCE_ID</id>
@@ -1611,39 +1578,6 @@
 	<property>
 	<id>IPMI_SENSOR_ID</id>
 	<value>0xA2</value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/apss-0/Proc1_0_Power</id>
-	<property>
-	<id>INSTANCE_ID</id>
-	<value>Proc1_0_Power</value>
-	</property>
-	<property>
-	<id>IPMI_SENSOR_ID</id>
-	<value>0xA7</value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/apss-0/Proc1_1_Power</id>
-	<property>
-	<id>INSTANCE_ID</id>
-	<value>Proc1_1_Power</value>
-	</property>
-	<property>
-	<id>IPMI_SENSOR_ID</id>
-	<value>0xA8</value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/apss-0/Proc1_2_Power</id>
-	<property>
-	<id>INSTANCE_ID</id>
-	<value>Proc1_2_Power</value>
-	</property>
-	<property>
-	<id>IPMI_SENSOR_ID</id>
-	<value>0xA9</value>
 	</property>
 </globalSetting>
 <globalSetting>
