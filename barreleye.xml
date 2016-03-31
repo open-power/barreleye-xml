@@ -5870,7 +5870,7 @@
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_DIMM_THROTTLE_TEMP_DEG_C</id>
-		<default>79</default>
+		<default>86</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_MEMCTRL_ERROR_TEMP_DEG_C</id>
