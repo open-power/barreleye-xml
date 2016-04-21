@@ -5798,7 +5798,7 @@
 	</attribute>
 	<attribute>
 		<id>MRW_ENHANCED_GROUPING_NO_MIRRORING</id>
-		<default>true</default>
+		<default>false</default>
 	</attribute>
 	<attribute>
 		<id>MRW_MAX_DRAM_DATABUS_UTIL</id>
@@ -8462,11 +8462,11 @@
 	</attribute>
 	<attribute>
 		<id>PROC_R_DISTLOSS_VCS</id>
-		<default>0x001</default>
+		<default>0x190</default>
 	</attribute>
 	<attribute>
 		<id>PROC_R_DISTLOSS_VDD</id>
-		<default>0x001</default>
+		<default>0x032</default>
 	</attribute>
 	<attribute>
 		<id>PROC_R_LOADLINE_VCS</id>
@@ -8474,7 +8474,7 @@
 	</attribute>
 	<attribute>
 		<id>PROC_R_LOADLINE_VDD</id>
-		<default>0x1c2</default>
+		<default>0x1f4</default>
 	</attribute>
 	<attribute>
 		<id>PROC_VRM_VOFFSET_VCS</id>
